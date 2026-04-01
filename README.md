@@ -8,7 +8,7 @@
 
 ## 🔥 About Me  
 - 🧪 Automation Testing using Playwright  
-- 🌐 Frontend Development (HTML, CSS, JavaScript)  
+- 🌐 Frontend Development (HTML, CSS, JavaScript, react js)  
 - 🤖 Interested in AI-based projects & real-world solutions  
 - 🚀 Built projects like AI Cattle Breed Detection & Charity Platform  
 
@@ -17,7 +17,7 @@
 ## 🛠 Tech Stack  
 
 ### 💻 Frontend  
-HTML | CSS | JavaScript  
+HTML | CSS | JavaScript | React js
 
 ### 🧪 Testing  
 Playwright | Manual Testing | Test Automation  
