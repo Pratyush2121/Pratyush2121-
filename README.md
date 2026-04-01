@@ -45,9 +45,8 @@ Java | JavaScript | C
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: (add your link here)  
+- 💼 LinkedIn: https://www.linkedin.com/in/pratyush-mishra-31429530a/
 - 📧 Email: pratyush8060@gmail.com  
 
----
-
-⭐ *"Building projects + Testing them = Complete Developer Mindset"*  
+ 
+  
